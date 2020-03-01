@@ -1,0 +1,7 @@
+.board-row {
+    color: rgb(5, 5, 114);
+    display: flex;
+    flex-wrap: wrap;
+    height: 100px;
+    width: 900px;
+}
